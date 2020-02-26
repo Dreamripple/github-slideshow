@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Moon tacos are a lie!
 Use the left arrow to go back!
